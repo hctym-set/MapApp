@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: demo
+  datasource:
+    url: jdbc:postgresql://localhost:5432/dbinfo2
+    username: postgres
+    password: 123456
+    driver: org.postgresql.Driver
+server:
+  port: 8090
+mybatis:
+  mapper-locations:
+    - classpath:mapper/*.xml
