@@ -1,0 +1,68 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+# Android Studio and IntelliJ IDEA
+/.idea/
+/.gradle/
+/build/
+/*.iml
+/*.ipr
+/*.iws
+/.DS_Store
+thumbs.db
+*.lock
+
+# Gradle
+.gradle/
+build/
+.gradle/
+gradle-wrapper.jar
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Windows thumbnail cache
+Thumbs.db
+
+# Mac OS
+.DS_Store
+
+# Linux
+*~
+
+# APKs and other build outputs
+*.apk
+*.aar
+*.aar/*.jar
+*.jar
+
+# ProGuard
+/proguard/
+
+# Android NDK
+/obj/
+/symbols/
+
+# Log files
+logs/
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+
+# Zip files (if you don't need to track them)
+*.zip
